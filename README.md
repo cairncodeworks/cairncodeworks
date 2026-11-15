@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to my profile! I build useful tools for daily life.
+
 <!--
 **tuxcored/tuxcored** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
