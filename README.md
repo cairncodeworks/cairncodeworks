@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 Welcome to my profile! I build useful tools for daily life.
+<!-- Markdown -->
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 **tuxcored/tuxcored** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
