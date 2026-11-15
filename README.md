@@ -10,6 +10,7 @@ Welcome to my profile! I build useful tools for daily life.
   width="25"
   height="25"
 />
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 <!--
 **tuxcored/tuxcored** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
